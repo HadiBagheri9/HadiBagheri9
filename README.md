@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer sciences, C# language and blockchain system developing.
 - 💞️ I’m looking to collaborate on any C# project
 - 📫 How to reach me : Instagram(@hadi.bagheri.9)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Do you know what you are deeply thinking about, it will make your tomorrow.
 
 <!---
