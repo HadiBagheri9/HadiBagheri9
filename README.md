@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HadiBagheri9
+- 👋 Hi, I’m Hadi Bagheri
 - 👀 I’m interested in Programming, Developing special softwares, Traveling, etc.
 - 🌱 I’m currently learning Computer sciences, C# language and Cryptography.
 - 📫 How to reach me : Email(bagherihadi191@gmail.com) Telegram(@hadi_bagheri_9)
